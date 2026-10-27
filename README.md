@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pangea is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.pangea.io/
+Pangea provides a powerful financial risk management platform built by treasury and trading veterans to reduce FX volatility, improve transparency, and lower total cost of ownership. Their AI‑powered foreign exchange hedging solutions help enterprises mitigate currency risk, automate hedging strategies, and gain real‑time insights across global markets.
+
+**Areas:** Company · Finance · Risk Management · FX Hedging · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pangea.io/)
+- [Documentation](https://docs.pangea.io/)
+- [Pricing](https://www.pangea.io/pricing)
+- [Terms of service](https://www.pangea.io/terms-conditions)
+- [Privacy policy](https://www.pangea.io/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pangea-io/](https://apis.io/providers/pangea-io/).
